@@ -14,6 +14,7 @@ const paths = [
     ),
   },
 ];
+//corrected
 
 const BrowserRouter = createBrowserRouter(paths);
 
